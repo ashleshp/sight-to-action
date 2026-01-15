@@ -42,4 +42,4 @@ pytest
    - Explanation agent (concise, fact-backed rationale)
 4. `vt_action.pipeline.evaluate_image` ties everything together for the UI/CLI/tests.
 
-OpenAI API keys are not required; the graph uses rule-based agents for clarity. Add keys later if you plug in LLM-backed agents.
+OpenAI API keys are not required; the graph uses rule-based agents for clarity.
