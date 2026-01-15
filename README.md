@@ -1,5 +1,7 @@
 # Sight to Action
 
+![Sight to Action UI](Screenshot.png)
+
 Lightweight, modular demo showing how to turn a single RGB image into structured scene facts, run LangGraph agents for risk/decision/explanation, and surface an auditable action.
 
 ## Features
